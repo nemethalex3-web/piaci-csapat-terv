@@ -1,0 +1,5 @@
+# updated 1794688959 2026-11-14T21:42:39+01:00
+# Piaci Csapat terv feed (MT5 EA: mt5/PiaciCsapatTerv.mq5). Csak terv, nincs szamlaadat.
+# Formatum (pontosvesszovel): kulcs;irany(L/S);entry_lo;entry_hi;sl;tp1;tp2;tp3(0=ki);inv(0=ki);start_utc;expiry_utc;id;megjegyzes
+# Idok: unix masodperc UTC. Tajekoztatas, nem befektetesi tanacs.
+BTCUSD;S;65900;66050;66250;65300;64980;64500;66200;1794687240;1794700800;12;TESZT
