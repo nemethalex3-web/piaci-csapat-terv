@@ -1,0 +1,1 @@
+# piaci-csapat-terv
