@@ -1,5 +1,5 @@
-# updated 1794828120 2026-11-16T12:22:00+01:00
+# updated 1794839800 2026-11-16T15:36:40+01:00
 # Piaci Csapat terv feed (MT5 EA: mt5/PiaciCsapatTerv.mq5). Csak terv, nincs szamlaadat.
 # Formatum (pontosvesszovel): kulcs;irany(L/S);entry_lo;entry_hi;sl;tp1;tp2;tp3(0=ki);inv(0=ki);start_utc;expiry_utc;id;megjegyzes
 # Idok: unix masodperc UTC. Tajekoztatas, nem befektetesi tanacs.
-NAS100;S;27950;28000;28060;27800;27660;0;28060;1794840300;1794847800;14;NQ hatarido szintek, CFD-n tolni kell
+NAS100;S;27740;27770;27815;27630;27555;0;27815;1794841200;1794847800;17;NQ hatarido szintek, CFD-n tolni kell
