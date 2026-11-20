@@ -1,5 +1,4 @@
-# updated 1795185598 2026-11-20T15:39:58+01:00
+# updated 1795206039 2026-11-20T21:20:39+01:00
 # Piaci Csapat terv feed (MT5 EA: mt5/PiaciCsapatTerv.mq5). Csak terv, nincs szamlaadat.
 # Formatum (pontosvesszovel): kulcs;irany(L/S);entry_lo;entry_hi;sl;tp1;tp2;tp3(0=ki);inv(0=ki);start_utc;expiry_utc;id;megjegyzes
 # Idok: unix masodperc UTC. Tajekoztatas, nem befektetesi tanacs.
-XAUUSD;S;3580;3584;3592;3557;3540;0;3592;1795187400;1795203000;25;intraday 15m, csak elutasito gyertya utan
